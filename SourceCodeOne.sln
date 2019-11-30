@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SourceCodeOne", "SourceCodeOne.csproj", "{6EC019BA-B332-4AE3-B417-B7934AB4A453}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EC019BA-B332-4AE3-B417-B7934AB4A453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EC019BA-B332-4AE3-B417-B7934AB4A453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EC019BA-B332-4AE3-B417-B7934AB4A453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EC019BA-B332-4AE3-B417-B7934AB4A453}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F84687F-99B3-43D5-9EFC-FF0CFFD32E14}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://peopleschange.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = SourceCodeOne.csproj
+		SccLocalPath1 = .
+	EndGlobalSection
+EndGlobal
